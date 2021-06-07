@@ -29,7 +29,7 @@ screenshot on a 5-seconds countdown. This was just for demonstration, timer inte
 ### Important files
 Mains files are 
 - [App.js](https://github.com/shloch/CountdownComponent/blob/main/src/App.js)
-- `CountdownComponent.js` (https://github.com/shloch/CountdownComponent/blob/main/src/components/CountdownComponent.js)
+- [CountdownComponent.js](https://github.com/shloch/CountdownComponent/blob/main/src/components/CountdownComponent.js)
 ## Contributor
 
 ### 👤 **SHEY Louis CHIA**
