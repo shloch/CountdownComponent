@@ -11,7 +11,7 @@ const questions = [
 ]
 
 export default function CountdownComponent(props) {
-  const INITIAL_QUESTION_TIMER = 10
+  const INITIAL_QUESTION_TIMER = 5
   const MAXIMUM_QUESTION_NUMBER = questions.length
   const [counter, setCounter] = useState(INITIAL_QUESTION_TIMER)
   const { nb, onDone } = props
