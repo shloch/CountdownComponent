@@ -1,18 +1,10 @@
-<h1 align="center">CODING_PRACTICE</h1>
+<h1 align="center">CountdownComponent</h1>
 <p>
             <a href="https://twitter.com/shloch" target="_blank">
                 <img alt="Twitter: @shloch" src="https://img.shields.io/twitter/follow/shloch.svg?style=social" />
             </a> <br/>
 </p>
 
-Sample coding challenges out of the many i usually do in codewars.com
-
-Have completed more than 200 coding algorithms on codewars.com in 5 programming languages
-- javascript
-- python
-- bash
-- php
-- ruby
 
 ## EXERCISE
 
@@ -30,11 +22,14 @@ Your mission is to code the CountdownComponent (and any code you need to test/sh
 
 ### Output Screenshot
 
-
+screenshot on a 5-seconds countdown. This was just for demonstration, timer interval is configurable in the code.
 
 ![alt text](https://github.com/shloch/CountdownComponent/blob/main/countDown.gif)
 
-
+### Important files
+Mains files are 
+- [App.js](https://github.com/shloch/CountdownComponent/blob/main/src/App.js)
+- `CountdownComponent.js` (https://github.com/shloch/CountdownComponent/blob/main/src/components/CountdownComponent.js)
 ## Contributor
 
 ### 👤 **SHEY Louis CHIA**
